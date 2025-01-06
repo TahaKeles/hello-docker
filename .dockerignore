@@ -1,0 +1,7 @@
+# Ignore node_modules (they get installed inside Docker anyway)
+node_modules
+npm-debug.log
+
+# Ignore local environment files (if any)
+.env
+
